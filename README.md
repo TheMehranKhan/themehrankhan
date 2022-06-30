@@ -3,9 +3,9 @@
   Welcome to Mehran's Profile I'm currently Learning TypeScript and a little bit more Java - check out my website:  
 <center> https://TheMehranKhan.github.io/ </center>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+love+automation+but!;my+country+is+sanctioned;so+I+self+host+everything)](https://git.io/typing-svg)
 </h3>
-💻 Learning JavaScript, React, MongoDB and a little bit more Java - check out my website:  
-<center> https://TheMehranKhan.github.io/ </center>
     
 # Hi there 👋
 
