@@ -31,5 +31,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+love+automation+but!;my+country+is+sanctioned;so+I+self+host+everything.)]
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+love+automation+but!;my+country+is+sanctioned;so+I+self+host+everything.)
 
