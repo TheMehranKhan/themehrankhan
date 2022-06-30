@@ -1,4 +1,9 @@
 
+<h3 align="center">
+  Welcome to Mehran's Profile I'm currently Learning TypeScript and a little bit more Java - check out my website:  
+<center> https://TheMehranKhan.github.io/ </center>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 💻 Learning JavaScript, React, MongoDB and a little bit more Java - check out my website:  
 <center> https://TheMehranKhan.github.io/ </center>
     
@@ -21,7 +26,7 @@
   </a>
 </div>
    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan&theme=dark)](https://git.io/streak-stats)
    
 <!-- Markdown -->
 
