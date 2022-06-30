@@ -21,6 +21,8 @@
   </a>
 </div>
    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan)](https://git.io/streak-stats)
+   
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
