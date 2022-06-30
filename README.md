@@ -23,11 +23,12 @@
       src="https://api.daily.dev/devcards/079630a7c5704722875437353a4c75fe.png?r=omj"
     />
   </a>
-</div>
-<div align="center">   
+</div> 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan&theme=dark)](https://git.io/streak-stats)
- </div>  
+
 <!-- Markdown -->
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+love+automation+but!;my+country+is+sanctioned;so+I+self+host+everything.)]
