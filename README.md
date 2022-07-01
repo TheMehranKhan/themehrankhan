@@ -62,6 +62,7 @@
     />
   </a>
   
+  StackOverflow:
   [![TheMehranKhan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10493858)](https://stackoverflow.com/users/10493858/mehran)
   
 </div> 
