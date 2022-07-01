@@ -1,3 +1,6 @@
+![](https://github.com/TheMehranKhan/themehrankhan/blob/main/header.png)
+
+# Hellooo 👋
 
 <h3 align="center">
   Welcome to Mehran's Profile I'm currently Learning TypeScript and a little bit more Java  check out my website:  
@@ -30,10 +33,15 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/TheMehranKhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-# Hi there 👋
+# Read more about me
 
 <div align="left">
-  <p>Follow me on twitter</p>
+
+* 🧐   Interested in decentralization, and blockchain.
+* 💼   Currently working as freelancer and do coding for hobby.
+* 🎓   Trying to leave my country to study on Computer Science in Germany.
+* 🌱   Currently learning JavaScript, Solidity, Math.
+
   <a href="https://twitter.com/TheMehranKhan">
     <img
       src="https://img.shields.io/twitter/follow/TheMehranKhan?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
