@@ -1,4 +1,4 @@
-<img align="center" src="[pic_trulli.jpg](https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png)" alt="Mehran">
+<img align="center" src="https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png" alt="Mehran">
 
 # Hellooo 👋
 
