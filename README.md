@@ -37,7 +37,7 @@
 
 # Read more about me
 
-<div align="left">c
+<div align="left">
 
   <a href="https://twitter.com/TheMehranKhan">
     <img
