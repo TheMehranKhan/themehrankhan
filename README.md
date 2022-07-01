@@ -172,9 +172,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<!-- Markdown -->
-### Some not funny jokes for y'all
-
-![Jokes Card](https://readme-jokes.vercel.app/api). 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11155870504&count=1)  
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11155870504&count=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
