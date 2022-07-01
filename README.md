@@ -62,7 +62,7 @@
     />
   </a>
   
-  [![TheMehjranKhan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10493858)](https://stackoverflow.com/users/10493858/mehran)
+  [![TheMehranKhan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10493858)](https://stackoverflow.com/users/10493858/mehran)
   
 </div> 
   
