@@ -1,4 +1,4 @@
-![](https://github.com/TheMehranKhan/themehrankhan/blob/main/header.png)
+![](https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png)
 
 # Hellooo 👋
 
