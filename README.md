@@ -1,4 +1,6 @@
+<p align="center">
 ![](https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png)
+</p>
 
 # Hellooo 👋
 
