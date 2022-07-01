@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png" alt="Mehran">
+<p align="center">
+<img src="https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png" alt="Mehran">
+</p>
 
 # Hellooo 👋
 
