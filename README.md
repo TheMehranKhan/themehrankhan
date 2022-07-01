@@ -50,6 +50,7 @@
       alt="Twitter"
     />
   </a>
+  ![](https://komarev.com/ghpvc/?username=themehrankhan)
 
   <a href="https://app.daily.dev/TheMehranKhan" target="_blank">
     <img
@@ -179,3 +180,9 @@
 ### I rant here sometime, but it's just a reminder for now that I'm still building this profile
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Still+working+on+the+profile;it+never+ends.)
+
+  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan)](https://github.com/ryo-ma/github-profile-trophy)
