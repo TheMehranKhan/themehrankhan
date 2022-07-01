@@ -50,7 +50,8 @@
       alt="Twitter"
     />
   </a>
-  ![](https://komarev.com/ghpvc/?username=themehrankhan)
+  
+![](https://komarev.com/ghpvc/?username=themehrankhan&color=green)
 
   <a href="https://app.daily.dev/TheMehranKhan" target="_blank">
     <img
