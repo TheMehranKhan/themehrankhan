@@ -37,12 +37,7 @@
 
 # Read more about me
 
-<div align="left">
-
-* 🧐   Interested in decentralization, and blockchain.
-* 💼   Currently working as freelancer and do coding for hobby.
-* 🎓   Trying to leave my country to study on Computer Science in Germany.
-* 🌱   Currently learning JavaScript, Solidity, Math.
+<div align="left">c
 
   <a href="https://twitter.com/TheMehranKhan">
     <img
@@ -62,8 +57,13 @@
     />
   </a>
   
-  StackOverflow:
+  StackOverflow: 
   [![TheMehranKhan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10493858)](https://stackoverflow.com/users/10493858/mehran)
+  
+* 🧐   Interested in decentralization, and blockchain.
+* 💼   Currently working as freelancer and do coding for hobby.
+* 🎓   Trying to leave my country to study on Computer Science in Germany.
+* 🌱   Currently learning JavaScript, Solidity, Math.
   
 </div> 
   
