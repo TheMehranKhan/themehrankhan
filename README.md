@@ -182,7 +182,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Still+working+on+the+profile;it+never+ends.)
 
   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11155870504&count=1)
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
