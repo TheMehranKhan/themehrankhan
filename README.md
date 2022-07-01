@@ -173,17 +173,8 @@
 </p>
 
 <!-- Markdown -->
-
-  
 ### Some not funny jokes for y'all
 
-![Jokes Card](https://readme-jokes.vercel.app/api) ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11155870504&count=1)
-
-### I rant here sometime, but it's just a reminder for now that I'm still building this profile
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Still+working+on+the+profile;it+never+ends.)
-
+![Jokes Card](https://readme-jokes.vercel.app/api). 
   
-
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11155870504&count=1)
