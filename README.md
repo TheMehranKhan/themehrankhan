@@ -61,13 +61,14 @@
       src="https://api.daily.dev/devcards/079630a7c5704722875437353a4c75fe.png?r=omj"
     />
   </a>
+  
+  [![TheMehjranKhan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10493858)](https://stackoverflow.com/users/10493858/mehran)
+  
 </div> 
   
 # 🔥 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan&theme=dark)](https://git.io/streak-stats)
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
   
   ## 🛠️ My favorite tools
 
