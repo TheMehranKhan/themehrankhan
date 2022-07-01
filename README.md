@@ -45,7 +45,7 @@
       alt="Twitter"
     />
     
-    ![](https://komarev.com/ghpvc/?username=themehrankhan&color=green)
+![(https://komarev.com/ghpvc/?username=themehrankhan&color=green)]
     
   </a>
 
