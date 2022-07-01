@@ -1,6 +1,4 @@
-<div align="center">
-![](https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png)
-</div>
+<img align="center" src="[pic_trulli.jpg](https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png)" alt="Mehran">
 
 # Hellooo 👋
 
