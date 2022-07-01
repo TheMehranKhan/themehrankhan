@@ -63,10 +63,11 @@
   </a>
 </div> 
   
-# 🔥 Streak stats
+# 🔥 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan&theme=dark)](https://git.io/streak-stats)
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
   
   ## 🛠️ My favorite tools
 
