@@ -177,7 +177,7 @@
 </p>
 
 # Medium  
-#(I rather you read my https://mirror.xyz/themehrankhan.eth)
+#(I rather you read my https://mirror.xyz/themehrankhan.eth)  
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=themehrankhan)](https://medium.com/@themehrankhan)
 
 # What I'm listening
