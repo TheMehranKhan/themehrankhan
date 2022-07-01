@@ -49,9 +49,10 @@
       src="https://img.shields.io/twitter/follow/TheMehranKhan?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
+    
+    ![](https://komarev.com/ghpvc/?username=themehrankhan&color=green)
+    
   </a>
-  
-![](https://komarev.com/ghpvc/?username=themehrankhan&color=green)
 
   <a href="https://app.daily.dev/TheMehranKhan" target="_blank">
     <img
