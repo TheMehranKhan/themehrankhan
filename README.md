@@ -33,6 +33,7 @@
 # Hi there 👋
 
 <div align="left">
+  <p>Follow me on twitter</p>
   <a href="https://twitter.com/TheMehranKhan">
     <img
       src="https://img.shields.io/twitter/follow/TheMehranKhan?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -48,6 +49,7 @@
     />
   </a>
 </div> 
+## 🔥 Streak stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan&theme=dark)](https://git.io/streak-stats)
 
