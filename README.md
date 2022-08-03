@@ -2,7 +2,7 @@
 <img src="https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png" alt="Mehran">
 </p>
 
-# Hellooo 👋
+# Hello 👋
 
 <h3 align="center">
   Welcome to Mehran's Profile I'm a self-taught programmer  check out my website:  
