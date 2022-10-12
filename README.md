@@ -67,7 +67,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-support@themehrankhan.zohodesk.eu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:support@themehrankhan.zohodesk.eu)](mailto:support@themehrankhan.zohodesk.eu)
   
 </div> 
-  
+  <!--
 # 🔥 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan&theme=dark)](https://git.io/streak-stats)
@@ -186,3 +186,4 @@
     
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
