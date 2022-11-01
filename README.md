@@ -44,13 +44,6 @@
   
   ![](https://komarev.com/ghpvc/?username=themehrankhan)
 
-  <a href="https://app.daily.dev/TheMehranKhan" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/079630a7c5704722875437353a4c75fe.png?r=omj"
-    />
-  </a>
   
   StackOverflow: 
   [![TheMehranKhan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10493858)](https://stackoverflow.com/users/10493858/mehran)
