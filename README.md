@@ -48,10 +48,6 @@
   StackOverflow: 
   [![TheMehranKhan StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10493858)](https://stackoverflow.com/users/10493858/mehran)
   
-* 🧐   Interested in decentralization, and blockchain.
-* 💼   Currently working as freelancer and do coding for hobby.
-* 🎓   Trying to leave my country to study on Computer Science in Germany.
-* 🌱   Currently learning JavaScript, Solidity, Math.
 
 [![Gmail Badge](https://img.shields.io/badge/-support@themehrankhan.zohodesk.eu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:support@themehrankhan.zohodesk.eu)](mailto:support@themehrankhan.zohodesk.eu)
   
