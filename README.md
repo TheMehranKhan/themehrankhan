@@ -44,7 +44,6 @@
   ![](https://komarev.com/ghpvc/?username=themehrankhan)
 
   
-  StackOverflow: https://stackoverflow.com/users/10493858/mehran
   
 
 [![Gmail Badge](https://img.shields.io/badge/-support@themehrankhan.zohodesk.eu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:support@themehrankhan.zohodesk.eu)](mailto:support@themehrankhan.zohodesk.eu)
