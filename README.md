@@ -21,17 +21,6 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/c/MehranKhanmohammadi?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCX6n24PuZQ6rGsVtp9liQRA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/MehranKhanmohammadi">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCX6n24PuZQ6rGsVtp9liQRA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/TheMehranKhan?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/TheMehranKhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-# Read more about me
-
 <div align="left">
 
   <a href="https://twitter.com/TheMehranKhan">
@@ -49,7 +38,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-support@themehrankhan.zohodesk.eu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:support@themehrankhan.zohodesk.eu)](mailto:support@themehrankhan.zohodesk.eu)
   
 </div> 
-  <!--
+
 # 🔥 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMehranKhan&theme=dark)](https://git.io/streak-stats)
@@ -168,4 +157,3 @@
     
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=themehrankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
