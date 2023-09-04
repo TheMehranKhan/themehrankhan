@@ -1,9 +1,7 @@
-<p align="center">
-<img src="https://github.com/TheMehranKhan/themehrankhan/blob/main/mehran.png" alt="Mehran">
-</p>
+<img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=10493858&theme=dracula"
+/>
 
-    
-    
 <!-- Social icons section -->
 
 <p align="center">
@@ -15,8 +13,4 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </a>
 </p>
-
-<img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=10493858&theme=dracula"
-/>
 
