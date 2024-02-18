@@ -8,4 +8,5 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+[![Stack Overflow Card](https://so-card.vercel.app/?query=user%3D10493858&theme=dracula)](https://stackoverflow.com/users/10493858/mehran)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheMehranKhan)](https://git.io/streak-stats)
