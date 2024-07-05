@@ -47,4 +47,4 @@ JSON                       4 hrs 36 mins   >>-----------------------   06.42 %
 
 <!-- HASHNODE_BLOG:END -->
 
-[![Hashnode Blog](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml)
+[![Hashnode Posts](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml)
