@@ -1,24 +1,18 @@
-name: "📚 latest Blog"
+name: Todoist Readme
 
 on:
   workflow_dispatch:
   schedule:
-    - cron:  "0 * * * *" # Runs every hour, on the hour
+    # Runs every minute
+    - cron: "* * * * *"
 
 jobs:
-  update_blogs:
-    name: "Update With Latest Blogs"
+  update-readme:
+    name: Update todoist stats
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "themehrankhan/action-hashnode-blog"
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/todoist-readme@master
         with:
-          USERNAME: "themehrankhan" # Hashnode Username
-          COUNT: 4 # MAX Visisble
-          STYLE: "blog-left"
-          BLOG_URL: "https://themehrankhan.hashnode.dev/"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          PREMIUM: ""
