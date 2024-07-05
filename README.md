@@ -19,3 +19,4 @@ https://linktr.ee/themehrankhan
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/waka.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/waka.yml)
