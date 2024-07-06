@@ -39,11 +39,11 @@ JSON                       4 hrs 36 mins   >>-----------------------   06.42 %
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
+- [Understanding the UUID Replacement and Configuration File Generator Script](https://themehrankhan.hashnode.dev/understanding-the-uuid-replacement-and-configuration-file-generator-script)
 - [Securing User Authentication with Passkeys and NextAuth.js](https://themehrankhan.hashnode.dev/securing-user-authentication-with-passkeys-and-nextauthjs)
 - [Mastering Functional Programming: Deep Dive into Elegance and Efficiency in Software Development](https://themehrankhan.hashnode.dev/mastering-functional-programming-deep-dive-into-elegance-and-efficiency-in-software-development)
 - [Simplified Overview of Expo 2023 Updates and Improvements](https://themehrankhan.hashnode.dev/expo-2023-updates-and-features-summary)
 - [Unlocking Immersive Experiences with Unity's Markerless Tracking](https://themehrankhan.hashnode.dev/unlocking-immersive-experiences-with-unitys-markerless-tracking)
-- [Getting Started with Markerless Tracking in Unity AR Foundation](https://themehrankhan.hashnode.dev/getting-started-with-markerless-tracking-in-unity-ar-foundation)
 
 <!-- HASHNODE_BLOG:END -->
 
