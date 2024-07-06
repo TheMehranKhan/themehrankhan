@@ -13,7 +13,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/d070bdfa-1040-49d4-8c79-90d700607e27.svg)](https://wakatime.com/@d070bdfa-1040-49d4-8c79-90d700607e27)
 
-Pinned repos can be mine can be fork of what i've used, like azesmway's repo that we used to integrate a unity game into React Native app built with expo I'm also also Unity Developer and I make cool Augmented Reality games using AR Foundation and Location based games like mapbox, currently making high-performance match-making engine using Go and Ruby on Rails (not a match making engine for games with unity tho lol, it's a matchmaking engine for FINEX markets) and managing a team of devs
+Pinned repos can be mine can be fork of what i've used, like azesmway's repo that we used to integrate a unity game into React Native app built with expo I'm also also Unity Developer and I make cool Augmented Reality games using AR Foundation and Location based games using mapbox, currently making high-performance match-making engine using Go and Ruby on Rails (not a match making engine for games with unity tho lol, it's a matchmaking engine for FINEX markets) and managing a team of devs
 
 you can find my links here, don't trust other ones people are crazy on the internet.
 https://linktr.ee/themehrankhan
