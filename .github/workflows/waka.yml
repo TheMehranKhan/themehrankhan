@@ -12,8 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Waka Box
-        uses: youyo/waka-box@v1
+      - name: waka-box
+        uses: matchai/waka-box@v5.0.0
+            
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -37,5 +38,5 @@ jobs:
           SHOW_OS: "true"
           SHOW_PROJECTS: "false"
           SHOW_UPDATED: "true"
-          SHOW_TIMEZONE: "false"
+          SHOW_TIMEZONE: "true"
           SHOW_MACHINE: "false"
