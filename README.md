@@ -22,15 +22,15 @@ https://linktr.ee/themehrankhan
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 06 June 2024 - To: 06 July 2024
+From: 07 June 2024 - To: 07 July 2024
 
-Total Time: 67 hrs 18 mins
+Total Time: 70 hrs 4 mins
 
-TypeScript         25 hrs 22 mins  >>>>>>>>>----------------   36.27 %
-C#                 7 hrs 5 mins    >>>----------------------   10.13 %
-JavaScript         6 hrs 46 mins   >>-----------------------   09.68 %
-Unity              5 hrs 19 mins   >>-----------------------   07.61 %
-JSON               4 hrs 35 mins   >>-----------------------   06.56 %
+TypeScript         27 hrs 2 mins   >>>>>>>>>----------------   37.18 %
+JavaScript         7 hrs 10 mins   >>-----------------------   09.87 %
+C#                 7 hrs 5 mins    >>-----------------------   09.75 %
+Unity              5 hrs 19 mins   >>-----------------------   07.32 %
+JSON               4 hrs 40 mins   >>-----------------------   06.43 %
 ```
 
 <!--END_SECTION:waka-->
