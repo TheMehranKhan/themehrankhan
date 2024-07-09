@@ -21,4 +21,5 @@ jobs:
           SHOW_LINES_OF_CODE: "False"       # Hides the Lines of code section (if needed)
           SHOW_LOC_CHART: "False"           # Hides the Lines of code chart (if needed)
           SHOW_DAYS_OF_WEEK: "False"        # Hides the Days of the week stats
+          SHOW_LANGUAGE_PER_REPO: "False"   # Hides the language per repository section
           TIME_RANGE: "Last 30 days"        # Change reporting period to last month
