@@ -19,14 +19,13 @@ jobs:
           # Content tweaks
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
+          BLOCKS: ░▒▓█
           CODE_LANG: typescript
           TIME_RANGE: last_30_days
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
           # Custom flags to include operating system and editors
           SHOW_OS: true
