@@ -28,3 +28,6 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
+          # Custom flags to include operating system and editors
+          SHOW_OS: true
+          SHOW_EDITORS: true
