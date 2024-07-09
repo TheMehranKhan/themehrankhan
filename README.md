@@ -26,11 +26,11 @@ From: 08 June 2024 - To: 08 July 2024
 
 Total Time: 70 hrs 30 mins
 
-TypeScript         27 hrs 18 mins  >>>>>>>>>----------------   37.05 %
-JavaScript         8 hrs 2 mins    >>>----------------------   10.90 %
-C#                 7 hrs 5 mins    >>-----------------------   09.62 %
-JSON               5 hrs 8 mins    >>-----------------------   06.98 %
-Unity              4 hrs 35 mins   >>-----------------------   06.23 %
+TypeScript         27 hrs 18 mins  █████████▒░░░░░░░░░░░░░░░   37.05 %
+JavaScript         8 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+C#                 7 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+JSON               5 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Unity              4 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
