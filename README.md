@@ -18,7 +18,7 @@ you can find my links here, don't trust other ones people are crazy on the inter
 https://linktr.ee/themehrankhan
 
 # How much i coded this month?
-**this is detailed data about what language i coded this month.**
+**This is what I've coded in from 2022 to now, I don't got data older than this.**
 <!--START_SECTION:waka-->
 
 ```typescript
