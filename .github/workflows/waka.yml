@@ -14,3 +14,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"            # Hides the Projects section
+          SHOW_SHORT_INFO: "False"          # Hides the early bird and GitHub stats section
+          SHOW_PROFILE_VIEWS: "False"       # Hides the Profile views section (if needed)
+          SHOW_COMMIT: "False"              # Hides the commit stats (if needed)
+          SHOW_LINES_OF_CODE: "False"       # Hides the Lines of code section (if needed)
+          SHOW_LOC_CHART: "False"           # Hides the Lines of code chart (if needed)
