@@ -17,8 +17,6 @@ Pinned repos can be mine can be fork of what i've used, like azesmway's repo tha
 you can find my links here, don't trust other ones people are crazy on the internet.
 https://linktr.ee/themehrankhan
 
-# How much i coded this month?
-**This is what I've coded in from 2022 to now, I don't got data older than this.**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2031%20mins-blue)
 
