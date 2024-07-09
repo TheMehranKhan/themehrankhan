@@ -36,10 +36,10 @@ JSON               4 hrs 40 mins   >>-----------------------   06.43 %
 <!--END_SECTION:waka-->
 
 <!-- TODO-IST:START -->
-🏆  280 Karma Points           
+🏆  551 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 3 tasks so far           
-⏳  Longest streak is 0 days
+✅  Completed 11 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 [![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml)
