@@ -1,32 +1,41 @@
-name: Waka Readme
+name: Waka Box
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs every day at midnight UTC
+    # Runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update WakaTime Readme
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: athul/waka-readme@master
+      - name: Waka Box
+        uses: youyo/waka-box@v1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Content tweaks
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          CODE_LANG: typescript
-          TIME_RANGE: last_30_days
+          # Optional configurations
+          # show title
+          SHOW_TITLE: "true"
+          # section name
+          SECTION_NAME: "waka"
+          # time range
+          TIME_RANGE: "last_30_days"
+          # language count
           LANG_COUNT: 5
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          IGNORED_LANGUAGES: YAML JSON TOML
-          # Custom flags to include operating system and editors
-          SHOW_OS: true
-          SHOW_EDITORS: true
+          # show time
+          SHOW_TIME: "true"
+          # show total
+          SHOW_TOTAL: "true"
+          # ignored languages
+          IGNORED_LANGUAGES: "YAML,JSON,TOML"
+          # Additional configurations
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "false"
+          SHOW_UPDATED: "true"
+          SHOW_TIMEZONE: "false"
+          SHOW_MACHINE: "false"
