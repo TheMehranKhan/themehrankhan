@@ -18,7 +18,7 @@ you can find my links here, don't trust other ones people are crazy on the inter
 https://linktr.ee/themehrankhan
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,7 +46,7 @@ Windows                  3 hrs 10 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 10/07/2024 00:10:12 UTC
+ Last Updated on 10/07/2024 05:45:12 UTC
 <!--END_SECTION:waka-->
 
 <!-- TODO-IST:START -->
