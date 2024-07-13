@@ -50,10 +50,10 @@ Windows                  4 hrs 38 mins       █████░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- TODO-IST:START -->
-🏆  1,115 Karma Points           
+🏆  1,320 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 35 tasks so far           
-⏳  Longest streak is 1 days
+✅  Completed 45 tasks so far           
+⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
 [![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml)
