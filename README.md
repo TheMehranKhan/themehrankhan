@@ -52,8 +52,8 @@ Unknown OS               4 mins              ░░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  1,941 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 65 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 67 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
