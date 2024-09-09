@@ -19,8 +19,6 @@ you can find my links here, don't trust other ones people are crazy on the inter
 https://linktr.ee/themehrankhan
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%201%20min-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -44,7 +42,7 @@ Mac                      2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/09/2024 00:12:12 UTC
+ Last Updated on 09/09/2024 00:11:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- TODO-IST:START -->
