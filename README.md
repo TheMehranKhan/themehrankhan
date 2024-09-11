@@ -49,9 +49,9 @@ Linux                    30 mins             ████░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- TODO-IST:START -->
-🏆  2,743 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 100 tasks so far           
+🏆  2,863 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 110 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
