@@ -2,12 +2,12 @@
 **i write what i like and what i did previously in this blog, check it out and sub to newsletter 🫡.**
 
 <!-- HASHNODE_BLOG:START -->
+- [Apple Unity Plug-Ins: Elevating Game Development for iOS and macOS](https://themehrankhan.hashnode.dev/apple-unity-plug-ins-elevating-game-development-for-ios-and-macos)
+- [The Rise of Telegram: A Double-Edged Sword](https://themehrankhan.hashnode.dev/the-rise-of-telegram-a-double-edged-sword)
 - [The Nerdy Nomad: Building a Full-Stack Web Application—A Step-by-Step Guide](https://themehrankhan.hashnode.dev/the-nerdy-nomad-building-a-full-stack-web-applicationa-step-by-step-guide)
 - [Understanding the UUID Replacement and Configuration File Generator Script](https://themehrankhan.hashnode.dev/understanding-the-uuid-replacement-and-configuration-file-generator-script)
 - [Securing User Authentication with Passkeys and NextAuth.js](https://themehrankhan.hashnode.dev/securing-user-authentication-with-passkeys-and-nextauthjs)
 - [Mastering Functional Programming: Deep Dive into Elegance and Efficiency in Software Development](https://themehrankhan.hashnode.dev/mastering-functional-programming-deep-dive-into-elegance-and-efficiency-in-software-development)
-- [Simplified Overview of Expo 2023 Updates and Improvements](https://themehrankhan.hashnode.dev/expo-2023-updates-and-features-summary)
-- [Unlocking Immersive Experiences with Unity's Markerless Tracking](https://themehrankhan.hashnode.dev/unlocking-immersive-experiences-with-unitys-markerless-tracking)
 
 <!-- HASHNODE_BLOG:END -->
 
