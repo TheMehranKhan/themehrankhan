@@ -19,7 +19,7 @@ you can find my links here, don't trust other ones people are crazy on the inter
 https://linktr.ee/themehrankhan
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2042%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,22 +27,17 @@ https://linktr.ee/themehrankhan
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Other                    23 hrs 21 mins      █████████████████████████   99.21 % 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    29 hrs 14 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          22 hrs 59 mins      ████████████████████████░   97.67 % 
-VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Google Calendar          29 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               22 hrs 59 mins      ████████████████████████░   97.67 % 
-Mac                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Unknown OS               29 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/10/2024 00:11:45 UTC
+ Last Updated on 03/10/2024 00:11:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- TODO-IST:START -->
