@@ -18,28 +18,6 @@ I'm a full-stack engineer, Pined repos can be mine can be fork of what i've used
 you can find my links here, don't trust other ones people are crazy on the internet.
 https://linktr.ee/themehrankhan
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2042%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-Other                    29 hrs 14 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          29 hrs 14 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Unknown OS               29 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 03/10/2024 00:11:32 UTC
-<!--END_SECTION:waka-->
-
 <!-- TODO-IST:START -->
 🏆  3,081 Karma Points           
 🌸  Completed 0 tasks today           
@@ -49,4 +27,4 @@ Unknown OS               29 hrs 14 mins      ███████████�
 
 [![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml)
 [![Hashnode Posts](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml)
-[![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/waka.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/waka.yml)
+
