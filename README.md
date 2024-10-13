@@ -19,9 +19,9 @@ you can find my links here, don't trust other ones people are crazy on the inter
 https://linktr.ee/themehrankhan
 
 <!-- TODO-IST:START -->
-🏆  3,081 Karma Points           
+🏆  3,129 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 148 tasks so far           
+✅  Completed 149 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
