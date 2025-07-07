@@ -1,3 +1,12 @@
+<table>
+  <tr>
+    <td valign="top" width="356">
+      <a href="https://app.daily.dev/themehrankhan">
+        <img src="https://api.daily.dev/devcards/v2/fmsHVWDX4pDUguT7sk0UO.png?type=default&r=mvc" width="356" alt="Mehran's Dev Card"/>
+      </a>
+    </td>
+    <td valign="top">
+
 # My Latest Blog Posts 👇
 **i write what i like and what i did previously in this blog, check it out and sub to newsletter 🫡.**
 
@@ -8,7 +17,6 @@
 - [Understanding the UUID Replacement and Configuration File Generator Script](https://themehrankhan.hashnode.dev/understanding-the-uuid-replacement-and-configuration-file-generator-script)
 - [Securing User Authentication with Passkeys and NextAuth.js](https://themehrankhan.hashnode.dev/securing-user-authentication-with-passkeys-and-nextauthjs)
 - [Mastering Functional Programming: Deep Dive into Elegance and Efficiency in Software Development](https://themehrankhan.hashnode.dev/mastering-functional-programming-deep-dive-into-elegance-and-efficiency-in-software-development)
-
 <!-- HASHNODE_BLOG:END -->
 
 # a lil about me
@@ -27,4 +35,6 @@ https://linktr.ee/themehrankhan
 
 [![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml)
 [![Hashnode Posts](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml)
-
+    </td>
+  </tr>
+</table>
