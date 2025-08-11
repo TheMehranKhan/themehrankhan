@@ -21,7 +21,7 @@
 
 # a lil about me
 **i love to make  software that just works.**
-I'm a full-stack engineer, Pined repos can be mine can be fork of what i've used, like azesmway's repo that we used to integrate a unity game into React Native app built with expo I'm also also Unity Developer and I make cool Augmented Reality games using AR Foundation and Location based games using mapbox, currently making high-performance match-making engine using Go and Ruby on Rails (not a match making engine for games with unity tho lol, it's a matchmaking engine for FINEX markets) and managing a team of devs.
+I'm a full-stack engineer, Pined repos can be mine can be fork of what i've used, like azesmway's repo that we used to integrate a unity game into React Native app built with expo I'm also also Unity Developer and I make cool Augmented Reality games using AR Foundation and Location based games using mapbox, currently making high-performance match-making engine using Go and Ruby on Rails.
 
 you can find my links here, don't trust other ones people are crazy on the internet.
 https://linktr.ee/themehrankhan
