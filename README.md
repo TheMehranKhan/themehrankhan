@@ -23,9 +23,10 @@
 # a lil about me
 **i love to make  software that just works.**
 I’m a full-stack engineer and Unity developer with a passion for building software that’s reliable, scalable, and fun to use.
-	•	On the web side, I work across the stack—designing APIs, optimizing backends, and crafting smooth front-end experiences.
-	•	On the game dev side, I create immersive projects in Unity, from Augmented Reality experiences (AR Foundation) to location-based games powered by Mapbox.
-	•	I’m currently developing a high-performance matchmaking engine using Go and Ruby on Rails.
+
+- On the web side, I work across the stack—designing APIs, optimizing backends, and crafting smooth front-end experiences.
+- On the game dev side, I create immersive projects in Unity, from Augmented Reality experiences (AR Foundation) to location-based games powered by Mapbox.
+- I’m currently developing a high-performance matchmaking engine using Go and Ruby on Rails.
 
 My pinned repositories showcase a mix of original projects and useful forks—for example, integrating Unity games into React Native apps built with Expo.
 
