@@ -27,12 +27,6 @@ I'm a full-stack engineer, Pined repos can be mine can be fork of what i've used
 you can find my links here, don't trust other ones people are crazy on the internet.
 https://linktr.ee/themehrankhan
 
-<!-- TODO-IST:START -->
-🏆  3,129 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 149 tasks so far           
-⏳  Longest streak is 3 days
-<!-- TODO-IST:END -->
 
 [![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml)
 [![Hashnode Posts](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml)
