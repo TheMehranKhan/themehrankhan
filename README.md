@@ -11,12 +11,13 @@
 **i write what i like and what i did previously in this blog, check it out and sub to newsletter 🫡.**
 
 <!-- HASHNODE_BLOG:START -->
+- [Building MapSpot: A Modern Location Sharing Platform with React, Node.js, and Interactive Maps](https://themehrankhan.hashnode.dev/building-mapspot-a-modern-location-sharing-platform-with-react-nodejs-and-interactive-maps)
+- [Recovering Toast Wallet Password: Are We on the Right Track?](https://themehrankhan.hashnode.dev/recovering-toast-wallet-password-are-we-on-the-right-track)
+- [How to Fix Async Component Errors in NextJS 13+ with React 18](https://themehrankhan.hashnode.dev/how-to-fix-async-component-errors-in-nextjs-13-with-react-18)
 - [Apple Unity Plug-Ins: Elevating Game Development for iOS and macOS](https://themehrankhan.hashnode.dev/apple-unity-plug-ins-elevating-game-development-for-ios-and-macos)
 - [The Rise of Telegram: A Double-Edged Sword](https://themehrankhan.hashnode.dev/the-rise-of-telegram-a-double-edged-sword)
 - [The Nerdy Nomad: Building a Full-Stack Web Application—A Step-by-Step Guide](https://themehrankhan.hashnode.dev/the-nerdy-nomad-building-a-full-stack-web-applicationa-step-by-step-guide)
-- [Understanding the UUID Replacement and Configuration File Generator Script](https://themehrankhan.hashnode.dev/understanding-the-uuid-replacement-and-configuration-file-generator-script)
-- [Securing User Authentication with Passkeys and NextAuth.js](https://themehrankhan.hashnode.dev/securing-user-authentication-with-passkeys-and-nextauthjs)
-- [Mastering Functional Programming: Deep Dive into Elegance and Efficiency in Software Development](https://themehrankhan.hashnode.dev/mastering-functional-programming-deep-dive-into-elegance-and-efficiency-in-software-development)
+
 <!-- HASHNODE_BLOG:END -->
 
 # a lil about me
