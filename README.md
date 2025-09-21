@@ -131,6 +131,14 @@ When not coding, you'll find me sipping coffee and brainstorming the next big id
 
 [![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml)
 [![Hashnode Posts](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml)
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themehrankhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide_title=true" alt="Top Languages" width="350"/>
+
+</div>
     </td>
   </tr>
 </table>
