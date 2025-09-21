@@ -63,6 +63,24 @@
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
       <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/SQLModel-336791?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLModel"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+      <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI"/>
+      <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+      <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white" alt="Traefik"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/HTTPS-009639?style=for-the-badge&logo=lets-encrypt&logoColor=white" alt="HTTPS"/>
+      <img src="https://img.shields.io/badge/CI/CD-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+      <img src="https://img.shields.io/badge/Password_Hashing-FF5722?style=for-the-badge&logo=bcrypt&logoColor=white" alt="Password Hashing"/>
+      <img src="https://img.shields.io/badge/Email_Recovery-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Recovery"/>
+      <img src="https://img.shields.io/badge/Reverse_Proxy-FF9800?style=for-the-badge&logo=traefik&logoColor=white" alt="Reverse Proxy"/>
+      <img src="https://img.shields.io/badge/Load_Balancer-4CAF50?style=for-the-badge&logo=traefik&logoColor=white" alt="Load Balancer"/>
+      <img src="https://img.shields.io/badge/Production_Ready-8BC34A?style=for-the-badge&logo=check-circle&logoColor=white" alt="Production Ready"/>
     </td>
     <td valign="top">
 
