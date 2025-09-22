@@ -129,7 +129,6 @@ When not coding, you'll find me sipping coffee and brainstorming the next big id
 🔗 **All links:** https://linktr.ee/themehrankhan
 
 
-[![Waka Readme](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/main.yml)
 [![Hashnode Posts](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml/badge.svg)](https://github.com/TheMehranKhan/themehrankhan/actions/workflows/hashnode.yml)
 
 ---
