@@ -1,5 +1,8 @@
 read: https://themehrankhan.github.io/system.portfolio.initiated/
 
+<img width="1112" height="344" alt="Screenshot 2025-11-18 at 12 56 21 AM" src="https://github.com/user-attachments/assets/acda49f9-f827-46d8-af37-c2d550de63e6" />
+
+
 <table>
   <tr>
     <td valign="top" width="356">
