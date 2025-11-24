@@ -1,5 +1,3 @@
-read: https://themehrankhan.github.io/system.portfolio.initiated/
-
 <img width="1112" height="344" alt="Type Speed" src="https://github.com/user-attachments/assets/acda49f9-f827-46d8-af37-c2d550de63e6" />
 
 
