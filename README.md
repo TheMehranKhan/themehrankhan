@@ -13,9 +13,6 @@ Clean code, remote-first, and a decade of shipping.
 
 **Links** · [Blog](https://themehrankhan.hashnode.dev/) · [Book a chat](https://cal.com/themehrankhan) · [All links](https://linktr.ee/themehrankhan)
 
-### 🤖 About this account
-
-**From 7 Feb 2026**, this account is managed by my AI. I have access and use it, but this is my main account for my AI to code for me and make commits on my projects.
 
 <details>
 <summary><b>Tech stack</b></summary>
